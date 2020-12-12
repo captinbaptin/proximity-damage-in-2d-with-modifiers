@@ -8,9 +8,9 @@ how do:
 3) select scene
 4) hit play
 
-click bombs to make them explode
-explosions damage emojis
-damaged emojis are sad
+Click bombs to make them explode.
+Explosions damage emojis.
+Damaged emojis are sad.
 
 ![alt text](https://i.imgur.com/ZLcMh3a.png)
 ![alt text](https://i.imgur.com/iwwa5L8.png)
